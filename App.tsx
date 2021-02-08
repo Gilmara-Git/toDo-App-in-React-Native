@@ -9,7 +9,7 @@ const App: React.FC = () =>{
       <Text style={styles.text}>This is my first React Native experience.
      </Text>
      <Text style={styles.text}>Thanks to my friend "Ilda Neta"
-     por </Text>
+     </Text>
     </SafeAreaView>
   
   );
